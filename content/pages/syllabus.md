@@ -48,9 +48,54 @@ Projects should be set up by the day after session #5.
 Grading
 -------
 
-| ACTIVITY | PERCENTAGE |
-| --- | --- |
-| Exam I | 25% |
-| Exam II | 25% |
-| Project (20% for Research + 6% for Presentation) | 26% |
-| Assignments | 24%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam I
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam II
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project (20% for Research + 6% for Presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+26%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+24%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
